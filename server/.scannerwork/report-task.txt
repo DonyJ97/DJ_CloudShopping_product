@@ -1,0 +1,6 @@
+projectKey=Product
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=Product
+ceTaskId=AXA52MMUGzQWDGaaZ7NX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXA52MMUGzQWDGaaZ7NX
